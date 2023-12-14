@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #6b0000; /* Vermelho escuro */
+  color: #fff; /* Cor do texto */
+}
+<link category="WEBPAGE">.cadastro</link> {
+  background-color: #fff;
+  padding: 2rem;
+  margin: 2rem 0;
+}
+
+<link category="WEBPAGE">.cadastro h2</link> {
+  color: #6b0000; /* Vermelho escuro */
+  text-align: center;
+}
+
+<link category="WEBPAGE">form</link> {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+<link category="WEBPAGE">label</link>, <link category="WEBPAGE">input</link> {
+  margin-bottom: 1rem;
+}
+
+<link category="WEBPAGE">input[type="submit"]</link> {
+  background-color: #6b0000; /* Vermelho escuro */
+  color: #fff;
+  padding: 0.5rem;
+  border: none;
+  cursor: pointer;
+}
+ 
